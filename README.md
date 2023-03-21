@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Tim! 👋
 
 I'm a Software Developer, Math Enthusiast, and Hackathonist. I have experience in Python, JavaScript, Java, C++, SQL, HTML, and CSS, and I'm always eager to learn more.
 
@@ -11,7 +11,8 @@ I'm a Software Developer, Math Enthusiast, and Hackathonist. I have experience i
 - [Wrire](https://wrire.com)
 
 ## 🌱 I'm currently learning
-- [Insert Learning Interests]
+- PyTorch
+- General Data Science, ML and AI principles
 
 ## 💬 Ask me about
 - Python
@@ -29,7 +30,5 @@ I'm a Software Developer, Math Enthusiast, and Hackathonist. I have experience i
 - [Wrire](https://wrire.com)
 - [truppert@wrire.com](mailto:truppert@wrire.com)
 
-## ⚡ Fun fact
-[Insert Fun Fact]
 
 Thanks for visiting my profile!
