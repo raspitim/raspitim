@@ -33,5 +33,5 @@ I'm a Software Developer, Math Enthusiast, and Hackathonist. I have experience i
 <a href="https://github.com/raspitim">
 <img align="left" style="display: inline-flex;" src="https://github-readme-stats.vercel.app/api?username=raspitim&hide=issues&show_icons=true&count_private=true&theme=tokyonight&hide_rank=true&bg_color=00000000"/>
 <a/>
-<br>
+\n
 Thanks for visiting my profile!
