@@ -18,7 +18,7 @@ I'm a Software Developer, Math Enthusiast, and Hackathonist. I have experience i
 - Python
 - JavaScript
 - Java
-- C++
+- C/C++
 - SQL
 - HTML
 - CSS
