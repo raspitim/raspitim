@@ -16,6 +16,7 @@ I'm a Software Developer, Math Enthusiast, and Hackathonist. I have experience i
 
 ## 💬 Ask me about
 - Python
+- Neural Networks and Machine Learning
 - JavaScript
 - Java
 - C/C++
