@@ -1,6 +1,6 @@
 # Hi there, I'm Tim! 👋
 
-I'm a Software Developer, Hackathonist and Math Student at Technical University of Munich <img src="https://portal.mytum.de/ccc/newsletter/tum-logo/getThumb?size=big" height="20px">. I have experience in Python, JavaScript, Java, C++, SQL, HTML, and CSS, and I'm always eager to learn more.
+I'm a Software Developer, Hackathonist and Math Student at Technical University of Munich <img src="https://portal.mytum.de/ccc/newsletter/tum-logo/getThumb?size=big" height="10px">. I have experience in Python, JavaScript, Java, C++, SQL, HTML, and CSS, and I'm always eager to learn more.
 
 [<img src="https://github.com/lstuma/lstuma/blob/main/teamsmiley.png" alt="TeamSmiley" width="33%">](https://teamsmiley.org)
 
