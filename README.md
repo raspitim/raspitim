@@ -11,6 +11,7 @@ I'm a Software Developer, Hackathonist and Math Student at Technical University 
 
 ## 🌱 I'm currently learning
 - General Data Science, ML and AI principles
+- Mathematics... there's always more of it to learn
 
 ## 💬 Ask me about
 - Python
