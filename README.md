@@ -27,6 +27,5 @@ I'm a Software Developer, Hackathonist and Math Student at Technical University 
 - [LinkedIn](https://linkedin.com/in/tim-ruppert)
 - [Instagram](https://instagram.com/timr.wrire)
 - [TeamSmiley](https://teamsmiley.org)
-- [truppert@wrire.com](mailto:truppert@wrire.com)
 
 Thanks for visiting my profile!
